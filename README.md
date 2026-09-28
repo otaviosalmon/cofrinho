@@ -135,6 +135,7 @@ Leia o QR Code com o **Expo Go**.
 
 ## 👥 Integrantes
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Otávio Salomão
+- Lucas Abrahão
+- Joâo Pucci
+- Matheus Ferrarezi
